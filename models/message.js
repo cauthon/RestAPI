@@ -1,3 +1,5 @@
+// schema is defined here
+
 var mongoose     = require('mongoose');
 var Schema       = mongoose.Schema;
 
